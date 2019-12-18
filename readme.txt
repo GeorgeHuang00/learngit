@@ -7,3 +7,4 @@ Wow, new line here.
 lol
 Ahhhhhhh
 branch test
+Good morning !
